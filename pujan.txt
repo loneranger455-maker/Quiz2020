@@ -1,0 +1,8 @@
+Who gifted the statue of liberty to USA?,France,France,Italy,Canada,Russia
+Where is atacama desert located?,South America,North America,South America,Asia,Europe
+"Who president has won the election with the highest
+vote in the history of America?",Joe Biden,Barak Obama,Bill Clinton,Joe Biden,Abrahm Lincoln
+Which is the only man made thing seen from moon?,Great wall of China,Pyramid of Giza,Great wall of China,Chichen Itza,Collessum
+
+
+Who is known as the father of artifial intelligence?,John McCarthy,Charles Babbage,Lee De Forest,John McCarthy,Jp Eckert
